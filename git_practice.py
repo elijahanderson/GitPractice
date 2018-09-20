@@ -3,3 +3,5 @@ print('Hello world!')
 
 nnn git status
 git
+print('a')
+print('This is a change to the file.')
